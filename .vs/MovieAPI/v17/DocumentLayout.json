@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\skoon\\OneDrive\\Dokument\\Programmering\\test\\MovieAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E27AD612-9EA2-42F0-84B6-ECAC7A322275}|MovieCatalog\\MovieCatalog.csproj|c:\\users\\skoon\\onedrive\\dokument\\programmering\\test\\movieapi\\moviecatalog\\ui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27AD612-9EA2-42F0-84B6-ECAC7A322275}|MovieCatalog\\MovieCatalog.csproj|solutionrelative:moviecatalog\\ui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27AD612-9EA2-42F0-84B6-ECAC7A322275}|MovieCatalog\\MovieCatalog.csproj|c:\\users\\skoon\\onedrive\\dokument\\programmering\\test\\movieapi\\moviecatalog\\services\\movieapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27AD612-9EA2-42F0-84B6-ECAC7A322275}|MovieCatalog\\MovieCatalog.csproj|solutionrelative:moviecatalog\\services\\movieapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37744AC2-E676-4E95-A460-FEE0C407CF1E}|MovieAPI\\MovieAPI.csproj|c:\\users\\skoon\\onedrive\\dokument\\programmering\\test\\movieapi\\movieapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37744AC2-E676-4E95-A460-FEE0C407CF1E}|MovieAPI\\MovieAPI.csproj|solutionrelative:movieapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27AD612-9EA2-42F0-84B6-ECAC7A322275}|MovieCatalog\\MovieCatalog.csproj|c:\\users\\skoon\\onedrive\\dokument\\programmering\\test\\movieapi\\moviecatalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27AD612-9EA2-42F0-84B6-ECAC7A322275}|MovieCatalog\\MovieCatalog.csproj|solutionrelative:moviecatalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37744AC2-E676-4E95-A460-FEE0C407CF1E}|MovieAPI\\MovieAPI.csproj|c:\\users\\skoon\\onedrive\\dokument\\programmering\\test\\movieapi\\movieapi\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37744AC2-E676-4E95-A460-FEE0C407CF1E}|MovieAPI\\MovieAPI.csproj|solutionrelative:movieapi\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37744AC2-E676-4E95-A460-FEE0C407CF1E}|MovieAPI\\MovieAPI.csproj|c:\\users\\skoon\\onedrive\\dokument\\programmering\\test\\movieapi\\movieapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37744AC2-E676-4E95-A460-FEE0C407CF1E}|MovieAPI\\MovieAPI.csproj|solutionrelative:movieapi\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37744AC2-E676-4E95-A460-FEE0C407CF1E}|MovieAPI\\MovieAPI.csproj|c:\\users\\skoon\\onedrive\\dokument\\programmering\\test\\movieapi\\movieapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37744AC2-E676-4E95-A460-FEE0C407CF1E}|MovieAPI\\MovieAPI.csproj|solutionrelative:movieapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\skoon\\OneDrive\\Dokument\\Programmering\\test\\MovieAPI\\MovieAPI\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MovieAPI\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\skoon\\OneDrive\\Dokument\\Programmering\\test\\MovieAPI\\MovieAPI\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MovieAPI\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:55:48.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\skoon\\OneDrive\\Dokument\\Programmering\\test\\MovieAPI\\MovieAPI\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "MovieAPI\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\skoon\\OneDrive\\Dokument\\Programmering\\test\\MovieAPI\\MovieAPI\\Data\\DataContext.cs",
+              "RelativeToolTip": "MovieAPI\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:53:38.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\skoon\\OneDrive\\Dokument\\Programmering\\test\\MovieAPI\\MovieAPI\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MovieAPI\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\skoon\\OneDrive\\Dokument\\Programmering\\test\\MovieAPI\\MovieAPI\\Models\\Movie.cs",
+              "RelativeToolTip": "MovieAPI\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:51:32.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\skoon\\OneDrive\\Dokument\\Programmering\\test\\MovieAPI\\MovieAPI\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "MovieAPI\\Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\skoon\\OneDrive\\Dokument\\Programmering\\test\\MovieAPI\\MovieAPI\\Services\\MovieService.cs",
+              "RelativeToolTip": "MovieAPI\\Services\\MovieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:45:34.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\skoon\\OneDrive\\Dokument\\Programmering\\test\\MovieAPI\\MovieCatalog\\Services\\MovieApiClient.cs",
+              "RelativeDocumentMoniker": "MovieCatalog\\Services\\MovieApiClient.cs",
+              "ToolTip": "C:\\Users\\skoon\\OneDrive\\Dokument\\Programmering\\test\\MovieAPI\\MovieCatalog\\Services\\MovieApiClient.cs",
+              "RelativeToolTip": "MovieCatalog\\Services\\MovieApiClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:17:50.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\skoon\\OneDrive\\Dokument\\Programmering\\test\\MovieAPI\\MovieCatalog\\UI\\Menu.cs",
+              "RelativeDocumentMoniker": "MovieCatalog\\UI\\Menu.cs",
+              "ToolTip": "C:\\Users\\skoon\\OneDrive\\Dokument\\Programmering\\test\\MovieAPI\\MovieCatalog\\UI\\Menu.cs",
+              "RelativeToolTip": "MovieCatalog\\UI\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:36:57.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\skoon\\OneDrive\\Dokument\\Programmering\\test\\MovieAPI\\MovieCatalog\\Program.cs",
+              "RelativeDocumentMoniker": "MovieCatalog\\Program.cs",
+              "ToolTip": "C:\\Users\\skoon\\OneDrive\\Dokument\\Programmering\\test\\MovieAPI\\MovieCatalog\\Program.cs",
+              "RelativeToolTip": "MovieCatalog\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T14:39:32.947Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
